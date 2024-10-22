@@ -12,7 +12,7 @@
 
 ## Current States
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahad-Ullah&theme=transparent" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noman-Mia&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   
