@@ -50,7 +50,7 @@
 ### Contribution Graph :
 <br/>
   
-[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Noman-Mia/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)]
 </div>
 
 
