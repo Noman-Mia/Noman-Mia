@@ -5,6 +5,7 @@
 
 <br/>
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noman-Mia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Current Overview :
 - 👋 Hi, I’m Noman
