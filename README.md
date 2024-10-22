@@ -19,7 +19,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/TAILWIND/PHP/LARAVEL/MYSQL
 - ⚡ Fun fact: I think I am Funny 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noman-Mia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noman-mia-785312322//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/noman.nomanislam.50)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Noman-Mia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noman-mia-785312322//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://web.facebook.com/noman.nomanislam.50)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Noman-Mia)](https://github.com/ryo-ma/github-profile-trophy)
 
