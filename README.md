@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Girl in a jacket" width="500" height="600">
+  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="banner" >
 </div>
 
 ## Current Overview
