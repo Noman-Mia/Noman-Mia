@@ -3,7 +3,8 @@
 #### Web - Application Developer
 ![Web - Application Developer](https://media.licdn.com/dms/image/v2/D4E16AQFN3HaMiGTwMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729567475148?e=1735171200&v=beta&t=esi5kVVVBHjso-c9Pflg35ancUZnFwdoGVVvnR1fHwA)
 
-
+<br/>
+<br/>
 
 ## Current Overview
 - 👋 Hi, I’m Noman
@@ -13,9 +14,8 @@
 - 📫 Reach me at nomanislamnishad@gmail.com
 <br/>
 <br/>
-<br/>
-<br/>
-## Current States
+
+## Technologies that I'm working with
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noman-Mia&theme=transparent" alt="GitHub Streak" /></a>
 </div>
@@ -26,8 +26,7 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ## Technologies that I'm working with
 <div align="center" margin="10px">
@@ -42,10 +41,8 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-## Contribution Graph
-  
+
+## Technologies that I'm working with
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
