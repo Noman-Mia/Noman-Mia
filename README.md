@@ -4,7 +4,7 @@
 ![Web - Application Developer](https://media.licdn.com/dms/image/v2/D4E16AQFN3HaMiGTwMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729567475148?e=1735171200&v=beta&t=esi5kVVVBHjso-c9Pflg35ancUZnFwdoGVVvnR1fHwA)
 
 <br/>
-<br/>
+
 
 
 
