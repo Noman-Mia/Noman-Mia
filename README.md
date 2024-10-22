@@ -36,7 +36,7 @@
   <img alt="Vue" title="Vue" height="48" width="70" src="https://www.svgrepo.com/show/354528/vue.svg">
   <img alt="Laravel" title="Laravel" height="48" width="70" src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png">
   <img alt="Mysql" title="Mysql" height="48" width="70" src="https://www.kreaweb.be/wp-content/uploads/2023/03/mysql.webp">
-  <img alt="JavaScript" title="JavaScript" height="48" width="70" border-radius:"200px" src="https://cdn.simpleicons.org/javascript">
+  <img alt="JavaScript" title="JavaScript" height="48" width="70" src="https://cdn.simpleicons.org/javascript">
   <img alt="Php" title="Php" height="48" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
   <img alt="Tailwind" title="Tailwind" height="48" width="70" src="https://cdn.simpleicons.org/tailwindcss">
   <img alt="DaisyUI" title="DaisyUI" height="48" width="70" src="https://cdn.simpleicons.org/daisyui">
