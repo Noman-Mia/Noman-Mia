@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## Technologies that I'm working with
+## Current States
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noman-Mia&theme=transparent" alt="GitHub Streak" /></a>
 </div>
@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-## Technologies that I'm working with
+## Tech Stacks
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
