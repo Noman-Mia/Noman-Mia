@@ -30,10 +30,14 @@
 
 ## Technologies that I'm working with
 <div align="center" margin="10px">
-  <img alt="React" title="React" height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wcLQNnpaOinLXJNRhm75wk1T3LtWOIHLsps3F9un-kmkaVrOSoOwKmCIK5xLvuAyzNo&usqp=CAU">
-  <img alt="Node" title="Node" height="48" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
-  <img alt="Mongodb" title="Mongodb" height="48" width="48" src="https://cdn.simpleicons.org/mongodb">
+  <img alt="React" title="React" height="48" width="48" src="[https://cdn.simpleicons.org/mongodb](https://cdn.simpleicons.org/react)">
+  <img alt="Vue" title="Vue" height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wcLQNnpaOinLXJNRhm75wk1T3LtWOIHLsps3F9un- 
+  kmkaVrOSoOwKmCIK5xLvuAyzNo&usqp=CAU">
+  <img alt="Laravel" title="Laravel" height="48" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIYO0oXmeqLLycD1TIMgQVeuZ1FOXZEjv1pnPvkfPPkWpAqVpgJUp1OnM- 
+  5eBxrYMyk1c&usqp=CAU">
+  <img alt="Mysql" title="Mysql" height="48" width="48" src="https://www.kreaweb.be/wp-content/uploads/2023/03/mysql.webp">
   <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
+  <img alt="Php" title="Php" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
   <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
   <img alt="DaisyUI" title="DaisyUI" height="48" width="48" src="https://cdn.simpleicons.org/daisyui">
   <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
