@@ -5,7 +5,13 @@
 
 <br/>
 <br/>
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Noman-Mia)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Noman-Mia)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### Current Overview :
 - 👋 Hi, I’m Noman
