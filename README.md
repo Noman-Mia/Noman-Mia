@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="![Web - Application Developer](https://media.licdn.com/dms/image/v2/D4E16AQFN3HaMiGTwMw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage- 
-   shrink_350_1400/0/1729567475148?e=1735171200&v=beta&t=esi5kVVVBHjso-c9Pflg35ancUZnFwdoGVVvnR1fHwA)" alt="Banner">
+  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Girl in a jacket" width="500" height="600">
 </div>
 
 ## Current Overview
-- 👋 Hi, I’m Rahad Ullah
+- 👋 Hi, I’m Noman
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning php, laravel
 - 💞️ I love to learn newest web technologies
-- 📫 Reach me at rahadullah10@gmail.com
+- 📫 Reach me at nomanislamnishad@gmail.com
 
 
 ## Current States
@@ -17,7 +16,7 @@
 </div>
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahad-Ullah&show_icons=true&count_private=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noman-Mia&show_icons=true&count_private=true)  
 
 </div>
 
@@ -47,10 +46,10 @@
   
 ## Contribution Graph
   
-[![Rahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
 <!---
-Rahad-Ullah/Rahad-Ullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Noman-Mia/Noman-Mia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
