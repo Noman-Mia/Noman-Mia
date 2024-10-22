@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-### Current Overview
+### Current Overview :
 - 👋 Hi, I’m Noman
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning php, laravel
@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-### Current States
+### Current States And More Details :
 <br/>
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noman-Mia&theme=transparent" alt="GitHub Streak" /></a>
@@ -29,7 +29,7 @@
 <br/>
 
 
-### Technologies that I'm working with
+### Technologies that I'm working with :
 <br/>
 <div align="center" margin="10px">
   <img alt="React" title="React" height="48" width="48" src="https://cdn.simpleicons.org/react">
@@ -47,7 +47,8 @@
 
 </div>
 
-### Contribution Graph
+### Contribution Graph :
+<br/>
   
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Noman-Mia/github-readme-activity-graph)
 </div>
