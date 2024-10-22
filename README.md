@@ -46,7 +46,7 @@
   
 ## Contribution Graph
   
-[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahad-Ullah&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph)
 </div>
 
 <!---
