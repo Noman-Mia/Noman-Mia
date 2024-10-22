@@ -11,8 +11,16 @@
 - 🌱 I’m currently learning php, laravel
 - 💞️ I love to learn newest web technologies
 - 📫 Reach me at nomanislamnishad@gmail.com
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Current States
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Noman-Mia&theme=transparent" alt="GitHub Streak" /></a>
@@ -33,19 +41,7 @@
   <img alt="Tailwind" title="Tailwind" height="48" width="48" src="https://cdn.simpleicons.org/tailwindcss">
   <img alt="DaisyUI" title="DaisyUI" height="48" width="48" src="https://cdn.simpleicons.org/daisyui">
   <img alt="Firebase" title="Firebase" height="48" width="48" src="https://cdn.simpleicons.org/firebase">
-</div>
-    
-## Tech Stacks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<div>
   
 ## Contribution Graph
   
