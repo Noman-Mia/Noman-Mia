@@ -36,9 +36,7 @@
   <img alt="Vue" title="Vue" height="48" width="48" src="https://encrypted-tbn0.gstatic.com/images? 
    q=tbn:ANd9GcR8wcLQNnpaOinLXJNRhm75wk1T3LtWOIHLsps3F9un- 
    kmkaVrOSoOwKmCIK5xLvuAyzNo&usqp=CAU">
-  <img alt="Laravel" title="Laravel" height="48" width="60" src="https://encrypted-tbn0.gstatic.com/images? 
-  q=tbn:ANd9GcTIYO0oXmeqLLycD1TIMgQVeuZ1FOXZEjv1pnPvkfPPkWpAqVpgJUp1OnM- 
-  5eBxrYMyk1c&usqp=CAU">
+  <img alt="Laravel" title="Laravel" height="48" width="60" src="https://www.codana.be/sites/default/files/styles/social_media_image/public/2020-03/laravel_php_framework.png?h=84aea9c6&itok=peaVYhqW">
   <img alt="Mysql" title="Mysql" height="48" width="48" src="https://www.kreaweb.be/wp-content/uploads/2023/03/mysql.webp">
   <img alt="JavaScript" title="JavaScript" height="48" width="48" src="https://cdn.simpleicons.org/javascript">
   <img alt="Php" title="Php" height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png">
