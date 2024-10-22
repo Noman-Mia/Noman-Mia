@@ -47,9 +47,11 @@
 
 </div>
 
-## Tech Stacks
-<br/>
-https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Rahad-Ullah/github-readme-activity-graph
+## Contribution Graph
+  
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noman-Mia&theme=react-dark)](https://github.com/Noman-Mia/github-readme-activity-graph)
+</div>
+
 
 <!---
 Noman-Mia/Noman-Mia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
