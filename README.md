@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://ibb.co.com/bdn9P8Y" alt="Banner">
+  <img src="https://i.ibb.co/abcxyz/banner.png" alt="Banner">
 </div>
 
 
