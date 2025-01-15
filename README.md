@@ -1,12 +1,12 @@
+<div align="center">
+  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Banner">
+</div>
+
 
   ## Hi there 👋, I am Noman
 #### Web - Application Developer
 
 <br/>
-<div align="center">
-  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Banner">
-</div>
-
 
 
 
