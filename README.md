@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://www.canva.com/design/DAGTzXfiiYU/pyZM0xmZhLOtsijmdKWkng/edit?utm_content=DAGTzXfiiYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner">
+  <img src="https://ibb.co.com/bdn9P8Y" alt="Banner">
 </div>
 
 
