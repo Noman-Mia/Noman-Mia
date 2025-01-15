@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Banner">
+  [<img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Banner">](https://www.canva.com/design/DAGTzXfiiYU/pyZM0xmZhLOtsijmdKWkng/edit?utm_content=DAGTzXfiiYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 </div>
 
 
