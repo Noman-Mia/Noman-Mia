@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rahad-Ullah/Rahad-Ullah/refs/heads/main/GitHub%20Profile%20Banner.gif" alt="Banner">
+  <img src="https://www.linkedin.com/in/noman-mia-785312322/overlay/background-image/" alt="Banner">
 </div>
 
 
