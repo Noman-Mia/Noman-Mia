@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://i.ibb.co/abcxyz/banner.png" alt="Banner">
+ <a href="https://ibb.co.com/bdn9P8Y"><img src="https://i.ibb.co.com/GPjS0bG/noman-mia.png" alt="noman-mia" border="0"></a>
 </div>
 
 
